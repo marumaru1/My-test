@@ -1,1 +1,1 @@
-https://marumaru1.github.io/My-test-CV/main
+https://marumaru1.github.io/My-test-CV
