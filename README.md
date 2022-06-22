@@ -1,1 +1,1 @@
-[https://marumaru1.github.io/My-test-CV]
+([Моё тестовое CV](https://marumaru1.github.io/My-test/))
